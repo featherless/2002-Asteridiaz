@@ -4,6 +4,10 @@
 
 This was my first C++ game built with OpenGL. It's a simple asteroids clone.
 
+## Music
+
+Listen to the [main theme song on Soundcloud](https://soundcloud.com/featherless-digital-creative-history/2002-asteridiaz-main-theme).
+
 ## Controls
 
 - Arrow keys to move
